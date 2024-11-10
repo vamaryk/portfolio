@@ -299,7 +299,7 @@ nav.navbar .navbar-nav .nav-link.navbar-link {
     box-shadow: 0 4rem 8rem rgba(0, 0, 0, 0.2);
 }
 
-.card p {
+#projects .card p {
     text-align: justify;
 }
 
@@ -389,7 +389,7 @@ nav.navbar .navbar-nav .nav-link.navbar-link {
 }
 
 @media (max-width: 520px) {
-    .card p {
+    #projects .card p {
         text-align: left;
     }
 }
