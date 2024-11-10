@@ -80,7 +80,7 @@ export const CardComponent = () => {
                 <img src={card.imgSrc} className="card-img-top p-0 img-height" alt={card.title} />
                 <div className="card-body">
                   <h5 className="card-title">{card.title}</h5>
-                  <p className="card-text text-justify">{card.text}</p>
+                  <p className="card-text">{card.text}</p>
                 </div>
               </motion.div>
             </div>
