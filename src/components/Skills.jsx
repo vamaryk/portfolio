@@ -12,6 +12,7 @@ export const Skills = () => {
     { title: 'Bootstrap', text: 'начальный?', icon: 'https://img.icons8.com/?size=100&id=OODqBWCdRF8o&format=png&color=000000' },
     { title: 'Python', icon: 'https://img.icons8.com/?size=100&id=12584&format=png&color=000000' },
     { title: 'Git', text: 'минимально', icon: 'https://img.icons8.com/?size=100&id=38388&format=png&color=000000' },
+    { title: 'C++', icon: 'https://img.icons8.com/?size=100&id=44328&format=png&color=000000' },
   ];
 
   const getCardStyle = (index) => {

@@ -208,7 +208,7 @@ nav.navbar .navbar-nav .nav-link.navbar-link {
 .banner {
     margin-top: 0;
     padding: 9.5em 0 0 0;
-    height: 100vh;
+    /* height: 100vh; */
 }
 
 .banner h1 {
@@ -423,4 +423,18 @@ footer .social-icon {
 
 footer {
     background: #1d1d1f !important;
+}
+
+.banner {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+#skills, #projects {
+    padding-top: 0;
+    margin-top: 2em;
+}
+
+#skills {
+    margin-top: 3.6em;
 }
